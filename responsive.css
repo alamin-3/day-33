@@ -746,6 +746,33 @@
     .step-timeline ul::before {
         top: 15px;
     }
+    body .btn-primary {
+        font-size: 10px;
+        padding: 7px 12px;
+    }
+    .header-button {
+        width: 120px;
+        top: 16px;
+        right: 30px;
+    }
+    .header-search {
+        position: absolute;
+        top: 18px;
+        right: 150px;
+        font-size: 22px;
+    }
+    .finix-logo {
+        width: 100px;
+    }
+    ul.our-primary-menu li:hover ul {
+        left: 27%;
+    }
+    ul.our-primary-menu li ul {
+        width: 174px;
+    }
+    ul.our-primary-menu li ul li:hover ul {
+        left: 50% !important;
+    }
 }
 
 
