@@ -1,0 +1,762 @@
+@media (min-width:1200px){
+    .about-text-right .finix-text p {
+        width: 570px;
+    }
+    .feature-item::before {
+        top: -173px;
+    }
+}
+
+@media (max-width:1366px) {
+    .header-info-section {
+        width: 428px;
+    }
+    ul.our-primary-menu li a {
+        padding: 10px 14px;
+    }
+    .header-search {
+        width: 50px;
+        font-size: 20px;
+    }
+    .header-call-icon {
+        font-size: 30px;
+    }
+    .finix-logo {
+        width: 150px;
+    }
+}
+
+/* display size-1200px */
+@media (max-width:1200px) {
+    .slider-content h1 {
+        font-size: 54px;
+    }
+    .client-logo ul li a img {
+        padding: 0 15px;
+        box-sizing: border-box;
+    }
+    .finix-text h1 {
+        font-size: 32px;
+    }
+    .about-text-right .finix-text p {
+        width: 530px;
+    }
+    .feature-item::before {
+        top: -200px;
+    }
+    .feature-item .ft-icon i {
+        font-size: 30px;
+        height: 80px;
+        width: 80px;
+        line-height: 80px;
+    }
+    .feature-item p {
+        font-size: 16px;
+    }
+    .call-to-action-bg h1 {
+        font-size: 32px;
+    }
+    .call-to-action-phone a {
+        font-size: 28px;
+        margin-top: 10px;
+        font-weight: 400;
+    }
+    ul.s-t-item li a span i {
+        height: 60px;
+        width: 60px;
+        line-height: 60px;
+        font-size: 25px;
+    }
+    ul.s-t-item li a strong {
+        font-size: 17px;
+        font-weight: 500;
+    }
+    .testimonial-content p {
+        font-size: 20px;
+    }
+    .client-details h5 {
+        font-size: 16px;
+    }
+    .testimonial-content p {
+        font-size: 17px;
+    }
+    .member-content h4 {
+        font-size: 18px;
+    }
+    .member-content p {
+        font-size: 15px;
+    }
+    ul.our-primary-menu li a {
+        padding: 4px 10px;
+        font-size: 15px;
+    }
+    body .btn-primary {
+        font-size: 15px;
+        padding: 8px 24px;
+    }
+    .header-info-section {
+        width: 400px;
+    }
+}
+/* ^^^^display size-1200px */
+
+
+/* display size-1080px */
+@media (max-width:1080px) {
+    .slider-content h1 {
+        font-size: 46px;
+    }
+    .slider-content p {
+        font-size: 18px;
+    }
+    .finix-text h1 {
+        font-size: 30px;
+    }
+    .about-text-right .finix-text p {
+        width: 450px;
+        font-size: 14px;
+    }
+    .about-img-text {
+        width: 150px;
+        height: 150px;
+    }
+    .about-img-text-inner h1 {
+        font-size: 50px;
+    }
+    .about-img-text-inner p {
+        font-weight: 400;
+        font-size: 12px;
+    }
+    .feature-item::before {
+        top: -165px;
+    }
+    .feature-item .ft-icon i {
+        font-size: 26px;
+        height: 70px;
+        width: 70px;
+        line-height: 70px;
+    }
+    .feature-item h3 {
+        font-size: 22px;
+        padding: 13px 0 !important;
+        box-sizing: border-box;
+    }
+    .feature-item p {
+        line-height: 1.5rem;
+        font-size: 15px;
+    }
+    .apply-now-section {
+        padding: 0 !important;
+    }
+    .apply-now-text-left h2 {
+        font-size: 30px;
+    }
+    .calculate-rate-right {
+        padding: 40px;
+    }
+    .calculate-rate-right .finix-text h1 {
+        font-size: 30px;
+    }
+    .step-timeline ul li strong {
+        font-size: 22px;
+        margin-bottom: 8px;
+    }
+    .step-timeline ul li {
+        margin-bottom: 18px;
+    }
+    .call-to-action-phone {
+        margin-top: 10px;
+    }
+    .call-to-action-phone span {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 30px;
+        margin-right: 27px;
+    }
+    .call-to-action-bg h1 {
+        font-size: 28px;
+    }
+    .company-values-text h2 {
+        font-size: 28px;
+        margin-bottom: 22px !important;
+    }
+    .values-items .value-text h3 {
+        font-size: 24px;
+    }
+    .values-items .value-text p {
+        font-size: 15px;
+    }
+    .values-items .value-icon {
+        font-size: 30px;
+        margin-right: 20px;
+    }
+    .values-items {
+        margin-bottom: 0;
+    }
+    .our-company-values {
+        padding: 20px 0 !important;
+    }
+    .our-company-img img {
+        margin-top: 80px;
+    }
+    .services-text-tab h3 {
+        margin-bottom: 13px;
+        font-size: 23px;
+    }
+    .services-text-tab p {
+        line-height: 1.3rem;
+        font-size: 13px;
+    }
+    .services-text-tab ul li {
+        line-height: 1.6rem;
+        font-size: 14px;
+    }
+    .services-text-tab ul li::before {
+        width: 8px;
+        height: 8px;
+        margin-right: 12px;
+    }
+    .blog-content h3 a {
+        font-size: 24px;
+    }
+    .blog-content p {
+        font-size: 15px;
+    }
+    .header-info-section {
+        width: 360px;
+    }
+    .header-call-icon {
+        font-size: 25px;
+        margin-right: 10px !important;
+    }
+    .header-call-info span {
+        font-size: 14px;
+    }
+    .header-call-info a {
+        font-weight: 400;
+        font-size: 15px;
+    }
+    .header-search {
+        width: 45px;
+        font-size: 18px;
+    }
+    .finix-logo {
+        width: 110px;
+    }
+    ul.our-primary-menu li a {
+        padding: 4px 9px;
+        font-size: 14px;
+    }
+    .header-call-info {
+        width: 170px !important;
+    }
+    .header-button {
+        width: 150px;
+    }
+}
+/* ^^^^display size-1080px */
+
+
+/* display size-992px */
+@media (max-width:992px) {
+    .slider-content h1 {
+        font-size: 38px;
+    }
+    .slider-content p {
+        font-size: 16px;
+    }
+    .client-logo ul li a img {
+        padding: 0 12px;
+        box-sizing: border-box;
+    }
+    .finix-text h1 {
+        font-size: 25px;
+    }
+    .about-text-right .finix-text p {
+        width: 380px;
+    }
+    .finix-text strong {
+        margin-bottom: 8px;
+        font-size: 17px;
+    }
+    .finix-text ul li {
+        padding: 1px 0;
+    }
+    .about-img-text {
+        width: 110px;
+        height: 110px;
+    }
+    .about-img-text-inner h1 {
+        font-size: 33px;
+    }
+    .about-img-text-inner p {
+        font-size: 9px;
+    }
+    .feature-item::before {
+        top: -151px;
+    }
+    .feature-item .ft-icon i {
+        font-size: 20px;
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+    .feature-item h3 {
+        font-size: 19px;
+        padding: 8px 0 !important;
+    }
+    .feature-item p {
+        line-height: 1.3rem;
+        font-size: 12px;
+    }
+    .play-animation-btn {
+        width: 70px;
+        height: 70px;
+        line-height: 70px;
+        font-size: 50px;
+    }
+    .play-animation-btn::before {
+        width: 70px;
+        height: 70px;
+    }
+    .apply-now-text-left h2 {
+        font-size: 22px;
+        margin-bottom: 25px !important;
+    }
+    .step-timeline ul li strong {
+        font-size: 17px;
+    }
+    .step-timeline ul li p {
+        font-size: 13px;
+    }
+    .step-timeline ul li::before {
+        left: -62px;
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+    .calculate-rate-right {
+        padding: 30px;
+    }
+    .calculate-rate-right .finix-text h1 {
+        font-size: 22px;
+    }
+    .calculate-form .form-group label {
+        margin-bottom: 8px;
+        font-size: 15px;
+    }
+    .calculate-form .form-group input {
+        padding: 8px 12px;
+    }
+    .calculate-form .form-group select {
+        height: 40px;
+    }
+    .call-to-action-bg {
+        padding: 40px;
+        padding-bottom: 22px;
+    }
+    .call-to-action-bg h1 {
+        font-size: 24px;
+    }
+    .call-to-action-phone span {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 25px;
+        margin-right: 22px;
+    }
+    .call-to-action-phone a {
+        font-size: 21px;
+    }
+    .values-items .value-text h3 {
+        font-size: 19px;
+    }
+    .values-items .value-text p {
+        font-size: 11px;
+    }
+    .values-items .value-icon {
+        font-size: 25px;
+        margin-right: 15px;
+    }
+    ul.s-t-item li a span i {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        font-size: 20px;
+    }
+    ul.s-t-item li a strong {
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .testimonial-content p {
+        font-size: 15px;
+    }
+    .member-content h4 {
+        font-size: 16px;
+    }
+    .member-content p {
+        font-size: 12px;
+    }
+    .m-social-profile ul li a {
+        font-size: 15px;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+    .member-content {
+        margin-top: 15px;
+    }
+    .blog-content h3 a {
+        font-size: 21px;
+    }
+    .blog-thumbnail img {
+        width: 100%;
+    }
+    .blog-content p {
+        margin-bottom: 4px;
+    }
+    .blog-content h3 {
+        margin-bottom: 5px;
+    }
+    .finix-logo {
+        width: auto;
+    }
+    ul.our-primary-menu li a {
+        padding: 8px 14px;
+        font-size: inherit;
+    }
+    ul.our-primary-menu li ul {
+        top: 10%;
+    }
+    ul.our-primary-menu li:hover ul {
+        visibility: visible;
+        opacity: 1;
+        top: 10%;
+        left: 15%;
+        z-index: 999;
+    }
+    .header-button {
+        width: 126px;
+        position: absolute;
+        top: 16px;
+        right: 80px;
+    }
+    .header-search {
+        position: absolute;
+        top: 19px;
+        right: 215px;
+        font-size: 25px;
+    }
+}
+/* ^^^^display size-992px */
+
+
+
+/* display size-768px */
+@media (max-width:768px) {
+    .slider-content h1 {
+        font-size: 30px;
+    }
+    .slider-content p {
+        font-size: 14px;
+    }
+    .client-logo ul li a img {
+        padding: 0 8px;
+    }
+    .about-img-text {
+        width: 200px;
+        height: 200px;
+    }
+    .about-img-text-inner h1 {
+        font-size: 65px;
+    }
+    .about-img-text-inner p {
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .about-text-right {
+        margin-top: 25px;
+    }
+    .play-animation-btn {
+        width: 90px;
+        height: 90px;
+        line-height: 90px;
+        font-size: 60px;
+    }
+    .play-animation-btn::before {
+        width: 90px;
+        height: 90px;
+    }
+    .feature-item {
+        margin-top: 40px !important;
+    }
+    .feature-item::before {
+        top: -142px;
+    }
+    .feature-item .ft-icon i {
+        font-size: 33px;
+        height: 90px;
+        width: 90px;
+        line-height: 90px;
+    }
+    .feature-item h3 {
+        font-size: 25px;
+        padding: 30px 0 !important;
+    }
+    .feature-item p {
+        line-height: 1.8rem;
+        font-size: 17px;
+    }
+    .apply-now-text-left {
+        margin-top: 30px;
+    }
+    .apply-now-text-left h2 {
+        font-size: 37px;
+        margin-bottom: 3rem !important;
+        text-align: center;
+    }
+    .step-timeline ul li strong {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    .step-timeline ul li p {
+        font-size: 15px;
+    }
+    .step-timeline ul li::before {
+        left: -64px;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+    }
+    .calculate-rate-right .finix-text h1 {
+        font-size: 35px;
+    }
+    .calculate-form .form-group label {
+        margin-bottom: 10px;
+        font-size: 17px;
+    }
+    .call-to-action-bg h1 {
+        font-size: 35px;
+        border-right: none;
+        padding-right: 0;
+        text-align: center;
+    }
+    .call-to-action-phone{
+        flex-direction: column;
+        align-items: center;
+    }
+    .call-to-action-phone span {
+        display: inline-block;
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        font-size: 33px;
+        margin-right: 0;
+    }
+    .call-to-action-phone a {
+        font-size: 35px;
+        font-weight: 500;
+    }
+    .company-values-text h2 {
+        font-size: 35px;
+        margin-bottom: 25px !important;
+    }
+    .values-items .value-icon {
+        font-size: 40px;
+        margin-right: 35px;
+    }
+    .values-items .value-text h3 {
+        font-size: 25px;
+    }
+    .values-items .value-text p {
+        font-size: 15px;
+    }
+    .our-company-img img {
+        margin-top: 30px;
+    }
+    ul.s-t-item li a span i {
+        height: 60px;
+        width: 60px;
+        line-height: 60px;
+        font-size: 25px;
+    }
+    ul.s-t-item li a strong {
+        font-size: 17px;
+        font-weight: 500;
+    }
+    .services-text-tab {
+        margin-top: 25px;
+    }
+    .nav-link {
+        margin-bottom: 25px;
+    } 
+    ul.s-t-item {
+        border-bottom: none;
+        padding-bottom: 0;
+    }
+    .m-social-profile ul li a {
+        font-size: 18px;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+    }
+    ul.our-primary-menu li ul li ul {
+        width: 200px;
+    }
+    ul.our-primary-menu li:hover ul {
+        left: 19%;
+    }
+}
+/*^^^ display size-768px */
+/*>>> display size-576px */
+
+
+/* only for 768 width */
+@media (width:768px) {
+    .about-img-text {
+        width: 160px;
+        height: 160px;
+    }
+    .about-img-text-inner h1 {
+        font-size: 56px;
+    }
+    .about-img-text-inner p {
+        font-size: 14px;
+        font-weight: 300;
+    } 
+    .member-content h4 {
+        font-size: 18px;
+    }
+}
+/* ************** */
+/* ^^^display size-768px */
+
+
+/* display size-576px */
+@media (max-width:576px) {
+    .client-logo ul li a img {
+        padding: 0 5px;
+    }
+    .about-text-right .finix-text p {
+        width: 100%;
+    }
+    .finix-text h1 {
+        font-size: 28px;
+    }
+    .about-img-text {
+        width: 110px;
+        height: 110px;
+    }
+    .about-img-text-inner h1 {
+        font-size: 33px;
+    }
+    .about-img-text-inner p {
+        font-size: 9px;
+    }
+    .feature-item h3 {
+        font-size: 25px;
+        padding: 12px 0 !important;
+    }
+    .apply-now-text-left h2 {
+        font-size: 25px;
+    }
+    .step-timeline ul li strong {
+        font-size: 20px;
+        margin-bottom: 8px;
+    }
+    .step-timeline ul li p {
+        font-size: 14px;
+    }
+    .calculate-rate-right .finix-text h1 {
+        font-size: 25px;
+    }
+    .call-to-action-bg h1 {
+        font-size: 28px;
+    }
+    .call-to-action-phone span {
+        display: inline-block;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 30px;
+    }
+    .call-to-action-phone a {
+        font-size: 30px;
+        font-weight: 400;
+    }
+    ul.s-t-item li a span i {
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+        font-size: 15px;
+    }
+    ul.s-t-item li a strong {
+        font-size: 9px;
+        font-weight: 300;
+    }
+    .services-text-tab h3 {
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+    .services-text-tab p {
+        line-height: 1rem;
+        font-size: 11px;
+    }
+    .services-text-tab ul li {
+        line-height: 1.4rem;
+        font-size: 12px;
+    }
+    .services-text-tab ul li::before {
+        width: 6px;
+        height: 6px;
+        margin-right: 10px;
+    }
+    .widget-social ul li span {
+        margin-right: 26px;
+        font-size: 16px;
+    }
+    .footer-widget h3 {
+        font-size: 18px;
+        border-bottom: 1px solid #444;
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+    .footer-widget ul li a {
+        font-size: 15px;
+    }
+    .step-timeline ul::before {
+        top: 25px;
+    }
+    ul.our-primary-menu li a {
+        font-size: 12px;
+    }
+    ul.our-primary-menu li ul {
+        width: 200px;
+    }
+    body .btn-primary {
+        font-size: 10px;
+        padding: 5px 12px;
+    }
+    
+}
+
+/* display size-370px */
+@media (max-width:370px) {
+    .step-timeline ul::before {
+        top: 15px;
+    }
+}
+
+
+
+
+
+
+
+
+/* display size-1200px */
+/* display size-1080px */
+/* display size-992px */
+/* display size-768px */
+/* display size-576px */
