@@ -798,6 +798,9 @@
         right: 135px;
         font-size: 25px;
     }
+    ul.our-primary-menu li ul {
+        width: 160px;
+    }
     
 }
 
