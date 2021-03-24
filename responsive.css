@@ -607,6 +607,10 @@
     ul.our-primary-menu li:hover ul {
         left: 19%;
     }
+    .navbar-light .navbar-toggler-icon {
+        width: 100%;
+        height: 100%;
+    }
 }
 /*^^^ display size-768px */
 /*>>> display size-576px */
@@ -772,6 +776,38 @@
     }
     ul.our-primary-menu li ul li:hover ul {
         left: 50% !important;
+    }
+    .slider-section {
+        background: url(https://i.postimg.cc/bwJkYXBc/main-banner2.jpg) no-repeat right 15% center;
+    }
+    .slider-content-wrap {
+        height: 60vh;
+    }
+    .slider-content h6 {
+        color: red;
+        font-weight: bold;
+    }
+    .slider-content h1 {
+        color: blueviolet;
+    }
+    .slider-content p {
+        color: burlywood;
+        font-weight: bold;
+    }
+    .slider-social ul li span {
+        font-size: 15px;
+        margin-right: 40px;
+    }
+    .slider-social ul li span::after {
+        left: 67px;
+        width: 30px;
+    }
+    .slider-social ul li a {
+        display: inline-block;
+        padding: 0 6px;
+        color: #111;
+        font-size: 19px;
+        transition: .7s;
     }
 }
 
