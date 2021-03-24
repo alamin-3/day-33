@@ -684,6 +684,10 @@ ul.s-t-item li a strong {
 	margin-right: 15px;
 }
 
+.lone-class{
+	position: unset;
+}
+
 /* day 33 p-7 14-01-21 */
 .testimonial-section{}
 .testimonial-content{}

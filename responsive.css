@@ -804,7 +804,20 @@
     
 }
 
+/* display size -390px */
+@media (max-width:410px) {
+    .nav-item{
+        float: left;
+        width: 33%;
 
+    }
+    ul.s-t-item li a.active::after {
+        bottom: -4px;
+    }
+    .nav-link {
+        margin-bottom: 15px;
+    }
+}
 
 /* display size-370px */
 @media (max-width:370px) {
